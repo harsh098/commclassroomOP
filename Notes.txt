@@ -1,0 +1,2 @@
+origin is the conventional name for your own forked copy
+upstream is the conventional name for the repo you forked from.
