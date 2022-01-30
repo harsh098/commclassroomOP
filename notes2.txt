@@ -1,1 +1,4 @@
 #Start of Notes for pulling requests
+A maximum of 1 pull requests can be instantiated with a branch so .
+You must always create a new branch for every new feature you develop on create a separate pull request else it 
+will add new commits to the same branch.
